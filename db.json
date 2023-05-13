@@ -1,0 +1,43 @@
+{
+    "cars": [
+        {
+            "brand": "Toyota",
+            "model": "Corolla",
+            "engine": {
+                "type": "hybrid",
+                "power": 120
+            },
+            "gearbox": "automatic",
+            "price": 125,
+            "status": "available",
+            "year": 2020,
+            "image": "https://s3.amazonaws.com/toyota-cms-media/wp-content/uploads/2020/06/2021-COR-SEDAN-XSE-01-768x384.jpg"
+        },
+        {
+            "brand": "Volkswagen",
+            "model": "Golf",
+            "engine": {
+                "type": "diesel",
+                "power": 150
+            },
+            "gearbox": "manual",
+            "price": 98,
+            "status": "sold",
+            "year": 2018,
+            "image": "https://i.auto-bild.de/ir_img/1/8/8/8/6/3/VW-Golf-1.5-TSI-2720x1530-7fe9b22568a54075.jpg"
+        },
+        {
+            "brand": "BMW",
+            "model": "3 Series",
+            "engine": {
+                "type": "gasoline",
+                "power": 200
+            },
+            "gearbox": "automatic",
+            "price": 225,
+            "status": "available",
+            "year": 2021,
+            "image": "https://www.bmwusa.com/content/dam/bmwusa/vehicles/3-series/sedan/2021/bmw-3-series-sedan.jpg"
+        }
+    ]
+}
